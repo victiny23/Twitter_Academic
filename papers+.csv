@@ -1,0 +1,492 @@
+,title,cited_by,year,tweeted_by
+0,Optimal control analysis of a mathematical model for breast cancer,20,2018,0
+1,Modeling combination therapy for breast cancer with BET and immune checkpoint inhibitors,26,2018,4
+2, Serum upar as biomarker in breast cancer recurrence: A mathematical model,8,2016,2
+3, Consolidated mathematical growth model of the primary tumor and secondary distant metastases of breast cancer (CoMPaS),5,2018,2
+4,Analysis of a breast cancer mathematical model by a new method to find an optimal protocol for HER2-positive cancer,0,2020,0
+5, Breast cancer-derived lung metastases show increased pyruvate carboxylase-dependent anaplerosis,101,2016,1
+6, Mathematical modeling of tumor growth: the MCF-7 breast cancer cell line,3,2019,0
+7,The GRHL2/ZEB feedback loop—a key axis in the regulation of EMT in breast cancer,45,2017,1
+8, Model driven optimization of antiangiogenics+ cytotoxics combination: application to breast cancer mice treated with bevacizumab+ paclitaxel doublet leads to …,23,2017,0
+9, Predicting breast cancer response to neoadjuvant chemotherapy based on tumor vascular features in needle biopsies,9,2019,0
+10, Experimentally-driven mathematical modeling to improve combination targeted and cytotoxic therapy for HER2+ breast cancer,4,2019,2
+11,HPM of estrogen model on the dynamics of breast cancer,3,2018,0
+12,A mathematical model for phase transition regulation on the cell cycle in early stage of breast cancer,0,2019,0
+13,Mathematical modeling links pregnancy-associated changes and breast cancer risk,6,2017,6
+14,Mathematical Modeling of Triple Negative Breast Cancer with Doxorubicin,0,2020,0
+15,An Ito stochastic differential equations model for the dynamics of the MCF-7 breast cancer cell line treated by radiotherapy,8,2016,0
+16, Bifurcation Analysis of a Mathematical Model of Tumor Growth in MCF-7 Breast Cancer Cell Line,0,2020,0
+17,A PROGNOSTIC IMMUNOTHERAPY MODEL FOR 4T1 BREAST CANCER WITH COMBINED CYCLOPHOSPHAMIDE AND TLR AGONIST,0,2020,0
+18,Size‐optimized Ultrasmall porous silica nanoparticles depict vasculature‐based differential targeting in triple negative breast cancer,9,2019,0
+19, Combination therapy of cancer with cancer vaccine and immune checkpoint inhibitors: A mathematical model,48,2017,2
+20,Model-based cardiac dose estimation in radiation treatment of left breast cancer,2,2018,4
+21,Galerkin finite element method for cancer invasion mathematical model,16,2017,5
+22,A Mathematical analysis of Local Stability and Optimal Control of Breast Cancer,0,2017,0
+23,Segmentation of breast MR images using a generalised 2D mathematical model with inflation and deflation forces of active contours,7,2019,0
+24,Towards personalized computer simulations of breast cancer treatment,0,2020,0
+25, A geometrically-constrained mathematical model of mammary gland ductal elongation reveals novel cellular dynamics within the terminal end bud,28,2016,0
+26, Flexible ultrasonic array for breast-cancer diagnosis based on a self-shape–estimation algorithm,0,2020,1
+27,Verification and Validation of Computer Models for Diagnosing Breast Cancer Based on Machine Learning for Medical Data Analysis,3,2019,1
+28,A mathematical model to study breast cancer growth,0,2017,0
+29, Mathematical modeling of ER-positive breast cancer treatment with AZD9496 and palbociclib,0,2020,0
+30,Patient-specific neoadjuvant regimens for breast cancer identified via image-driven mathematical modeling,0,2020,0
+31,A mathematical model of tumor hypoxia targeting in cancer treatment and its numerical simulation,8,2017,3
+32,A mathematical model of antibody-dependent cellular cytotoxicity (ADCC),16,2018,0
+33,Three-dimensional image-based mechanical modeling for predicting the response of breast cancer to neoadjuvant therapy,36,2017,0
+34,Innovative mathematical model links TRPV6 genotype to high triple negative breast cancer mortality rate in African-American females,0,2019,0
+35,PCN349-CAN WE APPLY THE UTILITY PREDICTION MATHEMATICAL MODEL FOR RECURRENT METASTATIC BREAST CANCER TO JAPANESE PATIENTS?,0,2018,0
+36, A predictive mathematical modeling approach for the study of doxorubicin treatment in triple negative breast cancer,18,2017,2
+37, Exosomal miRs in lung cancer: A mathematical model,10,2016,1
+38,"Do breast cancer patients benefit from surgery? Hypotheses, mathematical models and false beliefs",2,2017,0
+39, Characterization of multicellular breast tumor spheroids using image data-driven biophysical mathematical modeling,0,2020,1
+40,Towards integration of 64Cu-DOTA-Trasztusumab PET-CT and MRI with mathematical modeling to predict response to neoadjuvant therapy in HER2+ breast cancer,0,2020,2
+41,A mathematical model of breast cancer cell motion through a microfluidic device,0,2017,0
+42, Precision medicine with imprecise therapy: computational modeling for chemotherapy in breast cancer,17,2018,0
+43,Dynamics of Breast Cancer Under Different Rates of Chemoradiotherapy,1,2019,0
+44,Environmental factors in breast cancer invasion: a mathematical modelling review,14,2017,1
+45,Mathematical modeling and control for cancer treatment with cold atmospheric plasma jet,12,2019,0
+46,Global dynamics of a breast cancer competition model,2017,2017,0
+47,"A polycyclic aromatic hydrocarbon-enriched environmental chemical mixture enhances AhR, antiapoptotic signaling and a proliferative phenotype in breast cancer …",0,2020,0
+48, A mathematical model for enzyme clustering in glucose metabolism,5,2018,5
+49,Modeling of electrical impedance tomography to detect breast cancer by finite volume methods,3,2017,0
+50," A mathematical model for IL-6-mediated, stem cell driven tumor growth and targeted treatment",15,2018,3
+51,Formulation and In-vitro Characterisation of Fulvestrant loaded liposomes for breast cancer therapy,2017,2017,1
+52,Abstract P1-06-05: Image driven biophysical mathematical modeling of multicellular breast tumor spheroids,0,2020,0
+53,The role of the tumor microenvironment in glioblastoma: A mathematical model,36,2016,3
+54,Punctuated copy number evolution and clonal stasis in triple-negative breast cancer,249,2016,11
+55, Mathematical modelling of Her2 (ErbB2) PI3K/AKT signalling pathways during breast carcinogenesis to include PTPD2,0,2020,0
+56,A mathematical-experimental approach for predicting host responses in a preclinical model for trastuzumab-treated HER2+ breast cancer,0,2018,1
+57,Breast cancer diagnosis approach based on meta-heuristic optimization algorithm inspired by the bubble-net hunting strategy of whales,25,2016,0
+58,Prediction of the optimal dosing regimen using a mathematical model of tumor uptake for immunocytokine-based cancer immunotherapy,20,2018,2
+59,On Consolidated Predictive Model of the Natural History of Breast Cancer Considering Primary Tumor and Primary Distant Metastases Growth,1,2017,0
+60,Energetic regulation of coordinated leader–follower dynamics during collective invasion of breast cancer cells,25,2019,6
+61,XIAP regulation by MNK links MAPK and NFκB signaling to determine an aggressive breast cancer phenotype,19,2018,1
+62,Breast cancer detection using k-nearest neighbor machine learning algorithm,38,2016,0
+63, The role of myosin II in glioma invasion: A mathematical model,20,2017,0
+64,Breast cancer screening in young women,19,2018,108
+65, PO-139 Identify rational drug combinations for triple negative breast cancer by integrative network modelling,0,2018,0
+66,Abstract P4-08-03: Mathematical modeling of the unfolded protein response pathway in breast cancer cells,0,2017,0
+67, Characterizing and quantifying the effects of breast cancer therapy using mathematical modeling,4,2016,1
+68,A chemotaxis-based explanation of spheroid formation in 3D cultures of breast cancer cells,8,2019,0
+69,3D printed acoustically transparent pressure sensor for breast cancer detection,0,2020,0
+70,[CITATION][C] Development and Validation of a Predictive Model of Chemotherapy in Triple Negative Breast Cancer,0,2017,0
+71,Exosomal microRNA concentrations in colorectal cancer: A mathematical model,6,2017,1
+72, Computer modeling of some anti-breast cancer compounds,0,2020,0
+73,Breast cancer prediction: a comparative study using machine learning techniques,1,2020,0
+74,Dexamethasone increases cisplatin-loaded nanocarrier delivery and efficacy in metastatic breast cancer by normalizing the tumor microenvironment,19,2019,0
+75,Mathematical modelling of the interaction between cancer cells and an oncolytic virus: insights into the effects of treatment protocols,20,2018,3
+76,Application of Support Vector Machine to Predict the Onset of Breast Cancer in Mouse Model,0,2018,0
+77,PO-136 Studying pathway interactions and dynamics to predict cell responses to chemotherapeutic treatment in breast cancer cells,0,2018,0
+78,Toward Personalized Computer Simulation of Breast Cancer Treatment: A Multiscale Pharmacokinetic and Pharmacodynamic Model Informed by Multitype Patient …,5,2019,1
+79, Mathematical modeling of drug-induced receptor internalization in the HER2-positive SKBR3 breast cancer cell-line,4,2019,2
+80,"Analysis of a positive CVFE scheme for simulating breast cancer development, local treatment and recurrence",1,2017,0
+81,Understanding the antiangiogenic effect of metronomic chemotherapy through a simple mathematical model,8,2016,0
+82,Absolute reconstructions using rotational electrical impedance tomography for breast cancer imaging,39,2016,1
+83,Modeling of breast cancer through evolutionary game theory,0,2018,0
+84,Abstract P4-04-06: Study of the mutational landscape of normal and pregnant breast to predict pregnancy-associated breast cancer risk,0,2019,0
+85,Stochastic Gompertzian model for breast cancer growth process,0,2017,1
+86, Alteration of specific cytokine expression patterns in patients with breast cancer,11,2019,1
+87,Analysis of blood markers for early breast cancer diagnosis,20,2018,2
+88,Synergistic effect of quercetin and pH-responsive DEAE-chitosan carriers as drug delivery system for breast cancer treatment,18,2018,0
+89,Mathematical modeling in scheduling cancer treatment with combination of VEGF inhibitor and chemotherapy drugs,7,2019,1
+90,Focused ultrasound ablation for the treatment of patients with localized deformed breast cancer: computer simulation,3,2019,0
+91, MASTL overexpression promotes chromosome instability and metastasis in breast cancer,19,2018,2
+92,Abstract LB-011: Experimentally derived multi-state model of chemoresistance to characterize phenotypic dynamics in breast cancer,0,2017,0
+93," An agent-based model of triple-negative breast cancer: the interplay between chemokine receptor CCR5 expression, cancer stem cells, and hypoxia",18,2017,0
+94,Cell–cell adhesion and 3D matrix confinement determine jamming transitions in breast cancer invasion,3,2020,3
+95, A mathematical model of thyroid tumor,14,2016,0
+96,Axillary lymph node sonographic features and breast tumor characteristics as predictors of malignancy: a nomogram to predict risk,7,2017,0
+97,… screening schedules under varying resource constraints for planning breast cancer control programs in low-and middle-income countries: a mathematical study,0,2020,0
+98, correlation-centred variable selection of a gene expression signature to predict breast cancer metastasis,0,2020,2
+99,"First person profile: Larry Norton, MD: A world‐renowned breast cancer researcher, Dr. Norton has used his passion for music and math to revolutionize oncology",0,2019,0
+100,A mathematical prediction model incorporating molecular subtype for risk of non-sentinel lymph node metastasis in sentinel lymph node-positive breast cancer …,5,2018,0
+101,PO-137 Computational metabolism modelling predicts risk of relapse in breast cancer patients,0,2018,0
+102,Infiltration of CD8+ T cells into tumor cell clusters in triple-negative breast cancer,22,2019,8
+103,Revisiting dosing regimen using pharmacokinetic/pharmacodynamic mathematical modeling: densification and intensification of combination cancer therapy,20,2016,0
+104,Radioresistance of the breast tumor is highly correlated to its level of cancer stem cell and its clinical implication for breast irradiation,18,2017,0
+105,In silico simulation of a clinical trial with anti-CTLA-4 and anti-PD-L1 immunotherapies in metastatic breast cancer using a systems pharmacology model,15,2019,2
+106," Cost–effectiveness of risk-based breast cancer screening programme, China",11,2018,1
+107,Mathematical modeling for optimal control of breast cancer,0,2019,0
+108, Theory and experimental validation of a spatio-temporal model of chemotherapy transport to enhance tumor cell kill,34,2016,0
+109,Mathematical modeling of the effects of tumor heterogeneity on the efficiency of radiation treatment schedule,9,2018,4
+110,Modeling procedures for breast cancer diagnosis based on clinical elastography images,3,2018,0
+111, Understanding the connection between nanoparticle uptake and cancer treatment efficacy using mathematical modeling,18,2018,2
+112, Consolidated mathematical growth Model of Breast Cancer CoMBreC,0,2018,0
+113,A mathematical modelling for estradiol influence on DNA damage response and G1/S transition phase regulations in early stage of breast cancer,0,2019,0
+114, Software System for Automated Assessment of the Breast Cancer Risk from Mammograms,0,0,0
+115,Prediction of breast cancer using support vector machine and K-Nearest neighbors,38,2017,0
+116,Breast cancer diagnosis in DCE-MRI using mixture ensemble of convolutional neural networks,72,2017,1
+117,Multidrug cancer therapy in metastatic castrate-resistant prostate cancer: an evolution-based strategy,20,2019,5
+118,Mathematical Modeling of the Role of Survivin on Dedifferentiation and Radioresistance in Cancer,22,2016,0
+119,Computer-aided diagnosis for the identification of breast cancer using thermogram images: A comprehensive review,12,2019,1
+120,Prediction potential of serum miR-155 and miR-24 for relapsing early breast cancer,17,2017,0
+121, A mathematical model for the effect of obesity on cancer growth and on the immune system response,27,2016,0
+122,Mathematical modeling of tumor-induced immunosuppression by myeloid-derived suppressor cells: Implications for therapeutic targeting strategies,10,2018,3
+123,MRF‐ANN: a machine learning approach for automated ER scoring of breast cancer immunohistochemical images,17,2017,0
+124,The role of exosomes in pancreatic cancer microenvironment,24,2018,6
+125,Data mining algorithms to compute mixed concepts with negative attributes: an application to breast cancer data analysis,22,2016,0
+126,A Mathematical Model of the Transition from Normal Hematopoiesis to the Chronic and Accelerated-Acute Stages in Myeloid Leukemia,6,2020,0
+127,Identifying relations between imaging phenotypes and molecular subtypes of breast cancer: model discovery and external validation,41,2017,0
+128,Machine learning and mechanistic modeling for prediction of metastatic relapse in early-stage breast cancer,6,2020,2
+129,A mathematical model for chemoimmunotherapy of chronic lymphocytic leukemia,7,2019,1
+130,Comparison between stochastic support vector machine (stochastic SVM) and Fuzzy Kernel Robust C-Means (FKRCM) in breast cancer classification,1,2019,0
+131,Bio-inspired swarm techniques for thermogram breast cancer detection,21,2016,0
+132, … /Ib clinical trial of metronomic chemotherapy based on a mathematical model of oral vinorelbine in metastatic non-small cell lung cancer and malignant pleural …,15,2016,0
+133,Monte Carlo calculation of conversion coefficients for dose estimation in mammography based on a 3D detailed breast model,9,2017,0
+134,Determining the impact of the major prognostic factors in breast cancer,0,2017,0
+135,Tumor Characterization using Unsupervised Learning of Mathematical Relations within Breast Cancer Data,0,2020,4
+136,Qualitative microwave imaging of breast cancer with contrast agents,3,2019,1
+137,[CITATION][C] Values of a mathematical model for predicting the survival of patients with triple negative breast cancer depending on androgen receptors,2020,2020,0
+138,A mathematical model of tumour growth with Beddington–DeAngelis functional response: a case of cancer without disease,5,2018,2
+139,"Safety and efficacy study of metronomic vinorelbine, cyclophosphamide plus capecitabine in metastatic breast cancer: a phase II trial",26,2017,0
+140,"High-content, cell-by-cell assessment of HER2 overexpression and amplification: a tool for intratumoral heterogeneity detection in breast cancer",1,2019,0
+141,COX-2 inhibitors: a novel strategy in the management of breast cancer,60,2016,3
+142,All‐cause mortality versus cancer‐specific mortality as outcome in cancer screening trials: A review and modeling study,7,2019,2
+143,A mathematical model of dielectrophoretic data to connect measurements with cell properties,8,2019,4
+144, Mathematical modelling of breast cancer thermo-therapy treatment: Ultrasound-based approach,1,2016,0
+145,A new prospect in magnetic nanoparticle-based cancer therapy: Taking credit from mathematical tissue-mimicking phantom brain models,17,2017,1
+146,Elucidating cancer metabolic plasticity by coupling gene regulation with metabolic pathways,67,2019,9
+147,Optimization of skin cooling by computational modeling for early thermographic detection of breast cancer,13,2018,0
+148, Early detection and treatment strategies for breast cancer in low-income and upper middle-income countries: a modelling study,25,2018,3
+149, The occurrence of genetic alterations during the progression of breast carcinoma,9,2016,0
+150," … Biology Approach of Understanding the Effect of Raphanus sativus Extract on the Pathogenesis of Chronic Myeloid Leukemia, Breast and Colon Cancer",0,2016,0
+151, Breast cancer vaccination comes to age: impacts of bioinformatics,11,2018,1
+152, META-HEURISTIC OPTIMIZATION ALGORITHMS BASED FEATURE SELECTION FOR CLINICAL BREAST CANCER DIAGNOSIS,1,2018,0
+153,The Harsh Microenvironment in Early Breast Cancer Selects for a Warburg Phenotype,0,2020,1
+154,A logical framework for modelling breast cancer progression,4,2018,0
+155,Modelling the spatiotemporal dynamics of chemovirotherapy cancer treatment,17,2017,0
+156, Mathematical model on Alzheimer's disease,43,2016,2
+157,Is mammography screening beneficial: An individual-based stochastic model for breast cancer incidence and mortality,0,2020,3
+158,Cell-line-specific network models of ER+ breast cancer identify PI3Kα inhibitor sensitivity factors and drug combinations,0,2020,2
+159, Breast cancer mortality in Saudi Arabia: Modelling observed and unobserved factors,19,2018,1
+160,Role of texture analysis in breast MRI as a cancer biomarker: A review,24,2019,3
+161,"Targeted dose enhancement in radiotherapy for breast cancer using gold nanoparticles, part 1: A radiobiological model study",22,2017,0
+162,Tumor heterogeneity correlates with less immune response and worse survival in breast cancer patients,27,2019,0
+163," Estimation of breast tumour size, location and pre-processing algorithm for the breast thermal signatures",0,2018,0
+164,A novel approach for breast cancer prediction using optimized ANN classifier based on big data environment,1,2019,0
+165,Alternative Polyadenylation Modifies Target Sites of MicroRNAs with Clinical Potential for Breast Cancer Progression,2,2019,8
+166,A new fractional model and optimal control of a tumor-immune surveillance with non-singular derivative operator,96,2019,0
+167,Dynamic modeling of signal transduction by mTOR complexes in cancer,7,2019,3
+168, Mathematical Simulation of Heat Transfer Processes in a Breast with a Malignant Tumor.,15,2018,0
+169,Novel Thermal Image Classification Based on Techniques Derived from Mathematical Morphology: Case of Breast Cancer,0,2020,0
+170,Performance of ultrafast DCE-MRI for diagnosis of prostate cancer,15,2018,1
+171,… of concomitant chemo-radiotherapy in patients with locally-advanced squamous cell carcinoma of the head-and-neck in the light of a novel mathematical model,9,2016,0
+172,A novel approach for breast cancer investigation and recognition using M-level set-based optimization functions,2,2019,0
+173,Breast cancer detection in mammograms using convolutional neural network,29,2018,0
+174,A Complex Systems Model of Breast Cancer Etiology: The Paradigm II Conceptual Model,0,2020,2
+175,Breast cancer detection in the iot health environment using modified recursive feature selection,7,2019,0
+176, Mathematical and numerical analysis of a mathematical model of mixed immunotherapy and chemotherapy of cancer,2,2016,0
+177,Self-assembled amphiphilic chitosan nanoparticles for quercetin delivery to breast cancer cells,20,2018,0
+178, Breast cancer multi-classification from histopathological images with structured deep learning model,179,2017,3
+179,Clinical and molecular relevance of mutant-allele tumor heterogeneity in breast cancer,14,2017,3
+180, A highly predictive model for diagnosis of colorectal neoplasms using plasma microRNA: improving specificity and sensitivity,38,2016,1
+181, BGRMI: A method for inferring gene regulatory networks from time-course gene expression data and its application in breast cancer research,21,2016,1
+182,[CITATION][C] Mathematical modeling of female breast cancer in Japan,0,2020,0
+183, Mathematical Modeling for Breast Cancer Risk Assessment,0,0,0
+184,Integrating mathematical modeling into the roadmap for personalized adaptive radiation therapy,10,2019,6
+185,Thymoquinone Enhances Paclitaxel Anti-Breast Cancer Activity via Inhibiting Tumor-Associated Stem Cells Despite Apparent Mathematical Antagonism,6,2020,1
+186,Binary whale optimization algorithm and binary moth flame optimization with clustering algorithms for clinical breast cancer diagnoses,2019,2019,0
+187,The microRNA target site landscape is a novel molecular feature associating alternative polyadenylation with immune evasion activity in breast cancer,0,2020,2
+188,"Breast cancer risk models: a comprehensive overview of existing models, validation, and clinical applications",75,2017,0
+189,Systems approaches to cancer biology,13,2016,105
+190, … of a prediction model based on LASSO regression to evaluate the risk of non-sentinel lymph node metastasis in Chinese breast cancer patients with 1-2 …,0,2020,0
+191, Multilayer approach reveals organizational principles disrupted in breast cancer co-expression networks,0,2020,2
+192,"Using resistin, glucose, age and bmi and pruning fuzzy neural network for the construction of expert systems in the prediction of breast cancer",23,2019,0
+193, HER2-HER3 dimer quantification by FLIM-FRET predicts breast cancer metastatic relapse independently of HER2 IHC status,18,2016,0
+194,A mathematical model of white blood cell dynamics during maintenance therapy of childhood acute lymphoblastic leukemia,4,2019,0
+195,Delineating the evolutionary dynamics of cancer from theory to reality,2,2020,2
+196,On Consolidated Predictive Model of the Natural History of Breast Cancer: Primary Tumor and Secondary Metastases in Patients with Lymph Nodes Metastases,1,2017,0
+197,Thick tissue diffusion model with binding to optimize topical staining in fluorescence breast cancer margin imaging,0,2018,0
+198,Dextran-Curcumin Nanoparticles as a Methotrexate Delivery Vehicle: A Step Forward in Breast Cancer Combination Therapy,6,2020,0
+199,Divergent use of metabolic fluxes in breast cancer metastasis,0,2020,5
+200,Breast cancer diagnosis from mammographic images using optimized feature selection and neural network architecture,0,2020,0
+201, Circulating cell-free DNA-based epigenetic assay can detect early breast cancer,55,2016,5
+202, Personalized breast cancer screening strategies: A systematic review and quality assessment,5,2019,0
+203,Performance evaluation of extended EXACT algorithm for analyzing breast cancer using fractal dimension,2016,2016,0
+204,Modeling treatment of cancer using oncolytic virotherapy with saturated incidence,1,2020,0
+205,Impact of early breast cancer screening on mortality among young survivors of childhood Hodgkin's lymphoma,22,2016,1
+206,Inference of protein-protein networks for triple-negative breast cancer using single-patient proteomic data,0,2018,0
+207,Immunologic consequences of sequencing cancer radiotherapy and surgery,7,2019,5
+208,The Natural History of Breast Cancer,2,2017,72
+209,Treatment of breast cancer with engineered novel pH-sensitive triaryl-(Z)-olefin niosomes containing hydrogel: an in vitro and in vivo study,3,2020,0
+210,Mathematical Modeling of Breast Tumor Destruction Using Fast Heating during Radiofrequency Ablation,4,2020,0
+211,A multiscale mathematical model of tumour invasive growth,25,2017,6
+212,"Infrared imaging technology for breast cancer detection–Current status, protocols and new directions",66,2017,0
+213, Activated oncogenic pathway modifies Iron network in breast epithelial cells: a dynamic modeling perspective,10,2017,2
+214,Abstract P4-21-24: Development of mathematical prediction models to identify disease-free survival events for HER2-positive primary breast cancer patients treated by …,0,2017,0
+215,Preclinical Molecular Imaging for Precision Medicine in Breast Cancer Mouse Models,3,2019,0
+216,Revisiting bevacizumab+ cytotoxics scheduling using mathematical modeling: proof of concept study in experimental non‐small cell lung carcinoma,11,2018,1
+217,Rest-activity rhythm in breast cancer survivors: an update based on non-parametric indices,0,2020,0
+218,Histopathological image analysis for breast cancer detection using cubic SVM,2020,2020,0
+219,A Comparative Study between simulation of Machine Learning and Extreme Learning Techniques on Breast Cancer Diagnosis,1,2020,0
+220,Microfluidic channel for characterizing normal and breast cancer cells,16,2017,0
+221,International evaluation of an AI system for breast cancer screening,231,2020,147
+222,Hunt for the tipping point during endocrine resistance process in breast cancer by dynamic network biomarkers,20,2019,1
+223, Modelling of macrophage interactions in breast cancer by partial differential equations,0,2017,0
+224, Dose-and time-dependence of the host-mediated response to paclitaxel therapy: a mathematical modeling approach,3,2018,0
+225, Transient Bioheat Equation in Breast Tissue: Effect of Tumor Size and Location,1,2020,0
+226,The University of Wisconsin breast cancer epidemiology simulation model: an update,21,2018,0
+227,Support vector machine for breast cancer classification using diffusion‐weighted MRI histogram features: Preliminary study,30,2018,1
+228, Determination of Breast Tumor BIRADS Variant Using Physical Parameter on the Mammography X-Ray Film,0,2016,0
+229, A biobank of breast cancer explants with preserved intra-tumor heterogeneity to screen anticancer compounds,241,2016,35
+230,A multifunctional nanomedicine platform for co-delivery of methotrexate and mild hyperthermia towards breast cancer therapy,0,2020,0
+231,Revisiting dosing regimen using PK/PD modeling: the MODEL1 phase I/II trial of docetaxel plus epirubicin in metastatic breast cancer patients,19,2016,0
+232, Predicting drug combination index and simulating the network-regulation dynamics by mathematical modeling of drug-targeted EGFR-ERK signaling pathway,21,2017,0
+233,Pharmacodynamic analysis of eribulin safety in breast cancer patients using real‐world postmarketing surveillance data,3,2018,0
+234,Trainable Model Based on New Uniform LBP Feature to Identify the Risk of the Breast Cancer,7,2019,1
+235,Increased cellular levels of MicroRNA-9 and MicroRNA-221 correlate with cancer stemness and predict poor outcome in human breast cancer,20,2018,1
+236,A dynamic gradient boosting machine using genetic optimizer for practical breast cancer prognosis,21,2019,0
+237,NUMERICAL EVALUATION OF SCAR AFTER BREAST RECONSTRUCTION WITH ABDOMINAL ADVANCEMENT FLAP.,0,2017,1
+238,Mathematical modelling of radiation-induced cancer risk from breast screening by mammography,5,2017,0
+239, Mathematical modeling in cancer nanomedicine: a review,30,2019,4
+240,Mathematical Modeling for Predicting Chemotherapy and Nanoparticle Treatment Efficacy in Breast Cancer,0,2017,0
+241,"Cotinus coggygria Scop. induces cell cycle arrest, apoptosis, genotoxic effects, thermodynamic and epigenetic events in MCF7 breast cancer cells",0,2020,1
+242, Anti-angiogenic drug scheduling optimisation with application to colorectal cancer,2,2018,2
+243,Generalized Multiscale RBF Networks and the DCT for Breast Cancer Detection,1,2020,1
+244,Mathematical modeling of the tumor cells population dynamics in breast cancer/Amin Oroji,0,2018,0
+245, Semantic Web Based ST Algorithm Framework for Diagnosing and Monitoring of Breast Cancer on an Intelligent Personal Agent (IPA),0,0,0
+246, Current status of lectin-based cancer diagnosis and therapy,30,2017,0
+247,Using Hidden Markov Model to Predict Recurrence of Breast Cancer Based on Sequential Patterns in Gene Expression Profiles,0,2020,2
+248, Review of non-clinical risk models to aid prevention of breast cancer,7,2018,0
+249,Enhancing radiotherapy effect in breast cancer with nanoparticles: A review,4,2019,0
+250,Mathematical modeling and computational prediction of cancer drug resistance,34,2018,3
+251,Artificial intelligence in breast imaging,32,2019,42
+252,A new approach for microcalcification enhancement in digital breast tomosynthesis reconstruction,2,2019,0
+253,Automated characterization and counting of Ki-67 protein for breast cancer prognosis: A quantitative immunohistochemistry approach,15,2017,0
+254,Combining multiscale experimental and computational systems pharmacological approaches to overcome resistance to HER2-targeted therapy in breast cancer,4,2019,2
+255,A model for transfer of P-glycoproteins in MCF-7 breast cancer cell line with multiple transfer rules,1,2017,0
+256,Firefly Optimization based Segmentation Technique to analyze Medical Images of Breast Cancer,0,2020,0
+257,Ultrasonically controlled estrone-modified liposomes for estrogen-positive breast cancer therapy,18,2018,0
+258, trends and projections in Breast cancer Mortality among four Asian countries (1990–2017): Evidence from five Stochastic Mortality Models,0,2020,0
+259, Involvement of machine learning for breast cancer image classification: a survey,35,2017,0
+260,Chitosan Hydrogels for Synergistic Delivery of Chemotherapeutics to Triple Negative Breast Cancer Cells and Spheroids,0,2020,0
+261,A distributed key authentication and OKM-ANFIS scheme based breast cancer prediction system in the IoT environment,0,2020,0
+262, Defining cancer subpopulations by adaptive strategies rather than molecular properties provides novel insights into intratumoral evolution,75,2017,0
+263,Quantitative assessment of cold atmospheric plasma anti‐cancer efficacy in triple‐negative breast cancers,15,2018,0
+264, Systems modelling of the EGFR-PYK2-c-Met interaction network predicts and prioritizes synergistic drug combinations for triple-negative breast cancer,8,2018,2
+265," Bio-fabrication of silver nanoparticles by phycocyanin, characterization, in vitro anticancer activity against breast cancer cell line and in vivo cytotxicity",64,2017,0
+266,Blackboard to bedside: a mathematical modeling bottom-up approach toward personalized cancer treatments,10,2019,2
+267, Supplementary data for the biological age linked to oxidative stress modifies breast cancer aggressiveness,0,2018,0
+268,Relative and Absolute Expression Analysis of MicroRNAs Associated with Luminal A Breast Cancer–A Comparison,4,2019,1
+269,A review of cell-based computational modeling in cancer biology,54,2019,4
+270,Enhanced penetration and cytotoxicity of metformin and collagenase conjugated gold nanoparticles in breast cancer spheroids,5,2019,2
+271, In Silico Assessment Of The Impedance Parameters Of Tissue Using A 3D Finite Element Model To Detect Breast Cancer,0,2020,0
+272,Two-dimensional finite element model of breast cancer cell motion through a microfluidic channel,0,2019,0
+273,Improved cost-sensitive support vector machine classifier for breast cancer diagnosis,8,2018,0
+274,Mutational signatures in breast cancer: the problem at the DNA level,74,2017,5
+275,Optimal Control of Breast Cancer: Investigating Estrogen as a Risk Factor,0,2017,0
+276,Computational growth model of breast microcalcification clusters in simulated mammographic environments,9,2016,1
+277,Estimating Muscle Forces for Breast Cancer Survivors During Functional Tasks,0,2020,0
+278,Multiscale treatment response model for triple-negative breast cancer linking drug pharmacokinetics to tumor cell population dynamics,0,2016,0
+279, The clinical application of Raman spectroscopy for breast cancer detection,21,2017,0
+280,Machine Learning Based Classifier for Breast Cancer Prediction,0,2020,0
+281, Simulation model for breast cancer management in India,0,5,0
+282, Performance of Mid‐Treatment Breast Ultrasound and Axillary Ultrasound in Predicting Response to Neoadjuvant Chemotherapy by Breast Cancer Subtype,9,2017,0
+283,Prediction of postoperative disease-free survival and brain metastasis for HER2-positive breast cancer patients treated with neoadjuvant chemotherapy plus …,4,2018,1
+284,An improved hybrid active contour model for nuclear segmentation on breast cancer histopathology,10,2016,0
+285,Natural History of Breast Cancer: Reanalyze Nodal Stage and Oestrogen Receptor Status Affecting the Progression of Breast Cancer from SEER Database,0,202,0
+286,2D Microwave Imaging of the Breast Tissue: Forward Problem Technique,0,2019,0
+287,Computational studies on breast cancer analysis,0,2020,0
+288, Artificial intelligence methods for the diagnosis of breast cancer by image processing: a review,22,2018,8
+289,Embedded drug delivery controller for cancer chemotherapy under treatment constrains,5,2017,0
+290,Penetrance of ATM Gene Mutations in Breast Cancer: A Meta‐Analysis of Different Measures of Risk,49,2016,1
+291,Assessment of breast cancer risk factors among women of reproductive age group in Oshogbo using Gail model,0,2019,0
+292,A proposal for pathologic processing of breast implant capsules in patients with suspected breast implant anaplastic large cell lymphoma,3,2020,4
+293, Modulation of the leptin receptors expression in breast cancer cell lines exposed to leptin and tamoxifen,2,2019,0
+294, Survival and time to initiation of adjuvant chemotherapy among breast cancer patients: a systematic review and meta-analysis,23,2018,0
+295, Mathematical analysis of the Cancitis model and the role of inflammation in blood cancer progression,4,2019,0
+296,Atomic force microscopy indentation and inverse analysis for non-linear viscoelastic identification of breast cancer cells,17,2016,0
+297,Mathematical models of breast and ovarian cancers,11,2016,5
+298,Prediction Model for Breast Cancer Detection Using Machine Learning Algorithms,0,2020,0
+299, Discrimination of breast cancer with microcalcifications on mammography by deep learning,149,2016,3
+300, … Screening Schedules under Varying Resource Constraints for Planning Breast Cancer Control Programs in Low-and Middle-Income Countries: A Mathematical …,0,2020,0
+301, BOADICEA: a comprehensive breast cancer risk prediction model incorporating genetic and nongenetic risk factors,90,2019,3
+302,Abstract PD3-15: Novel cFlip inhibitor suppresses chemotherapy-induced breast cancer stem cell activity through blocking HIF1-α,0,2018,0
+303,Bayesian inference identifies combination therapeutic targets in breast cancer,7,2019,0
+304,Deep learning modeling using normal mammograms for predicting breast cancer risk,10,2020,1
+305,"Axillary lymph node dissection in node-positive breast cancer: are ten nodes adequate and when is enough, enough?",1,2020,1
+306,Distinct Glycosylations Lead to Breast Cancer Cell Adhesion to E-selectin,0,2016,0
+307,Cost-effectiveness models in breast cancer screening in the general population: a systematic review,12,2017,1
+308,Moment stability for nonlinear stochastic growth kinetics of breast cancer stem cells with time-delays,8,2016,0
+309, Integrating evolutionary dynamics into treatment of metastatic castrate-resistant prostate cancer,269,2017,8
+310,Polarization‐dependent second‐harmonic generation for collagen‐based differentiation of breast cancer samples,0,2020,1
+311, Mathematical modeling for Phase I cancer trials: A study of metronomic vinorelbine for advanced non-small cell lung cancer (NSCLC) and mesothelioma …,16,2017,0
+312," Effectiveness of Gail Model in Assessing the Risk of Developing Breast Cancer in Baghdad, Iraq",0,2020,0
+313," Determining the thermal characteristics of breast cancer based on high-resolution infrared imaging, 3D breast scans, and magnetic resonance imaging",1,2020,0
+314,[CITATION][C] A multi-scale mathematical model of combination targeted and cytotoxic therapy to evaluate treatment response in HER2+ breast cancer,0,2019,0
+315, A technical review of convolutional neural network-based mammographic breast cancer diagnosis,18,2019,0
+316, PIK3CA-CDKN2A clonal evolution in metastatic breast cancer and multiple points cell-free DNA analysis,0,2019,0
+317,Supervariants identification for breast cancer,0,2020,1
+318,"… for potential postsurgical breast cancer treatment: a single platform for synergistic inhibition of local regional breast cancer recurrence, surveillance, and healthy breast …",16,2018,0
+319, From Breast Cancer to Computational Science,0,2018,0
+320, MiR-1976 knockdown promotes epithelial–mesenchymal transition and cancer stem cell properties inducing triple-negative breast cancer metastasis,0,2020,2
+321, A mathematical framework for modelling the metastatic spread of cancer,16,2019,15
+322,Microstructural models for diffusion MRI in breast cancer and surrounding stroma: an ex vivo study,15,2017,1
+323,Repurposing suramin for the treatment of breast cancer lung metastasis with glycol chitosan-based nanoparticles,7,2019,2
+324, A mathematical study of the impact of cell plasticity on tumour control probability,1,2020,0
+325,Enhanced performance of macrophage-encapsulated nanoparticle albumin-bound-paclitaxel in hypo-perfused cancer lesions,35,2016,0
+326, A highly potent PROTAC androgen receptor (AR) degrader ARD-61 effectively inhibits AR-positive breast cancer cell growth in vitro and tumor growth in vivo,0,2020,1
+327,SUPPORT TOOL FOR DECISION-MAKING IN SELECTING CHEMOTHERAPY TACTICS FOR TREATMENT OF BREAST CANCER PATIENTS.,0,2019,0
+328,Effect of Erufosine on Membrane Lipid Order in Breast Cancer Cell Models,0,2020,6
+329,Cancerous nuclei detection and scoring in breast cancer histopathological images,7,2016,4
+330,A novel intelligent classification model for breast cancer diagnosis,27,2019,0
+331,Computer-aided diagnosis system combining FCN and Bi-LSTM model for efficient breast cancer detection from histopathological images,16,2019,1
+332,INTERNAL TEMPERATURE FIELD ESTIMATION IN WATER-FILTERED INFRA-RED-A (wIRA) HYPERTHERMIA OF BREAST CANCER FROM SKIN SURFACE …,0,2018,0
+333,Adaptive decision-making of breast cancer mammography screening: A heuristic-based regression model,7,2018,0
+334, Ultrasound-activated piezoelectric nanoparticles inhibit proliferation of breast cancer cells,23,2018,0
+335,Finite difference method based analysis of bio-heat transfer in human breast cyst,10,2019,0
+336,Breast cancer classification from histopathological images with inception recurrent residual convolutional neural network,53,2019,6
+337,Evaluation of computationally intelligent techniques for breast cancer diagnosis,0,2020,0
+338,A tissue-engineered 3D microvessel model reveals the dynamics of mosaic vessel formation in breast cancer,1,2020,3
+339,Formulation-optimization of solid lipid nanocarrier system of STAT3 inhibitor to improve its activity in triple negative breast cancer cells,14,2019,0
+340, The Framingham risk score underestimates the risk of cardiovascular events in the HER2-positive breast cancer population,13,2017,0
+341,Analyses of BMAL1 and PER2 Oscillations in a Model of Breast Cancer Progression Reveal Changes With Malignancy,7,2019,0
+342, Applying data-driven imaging biomarker in mammography for breast cancer screening: preliminary study,22,2018,2
+343,Abstract A29: Mathematical models are not the be-all and end-all for breast cancer risk assessment,0,2017,0
+344,Dose-dense adjuvant chemotherapy: a systematic review and meta-analysis of the Japanese Breast Cancer Society Clinical Practice Guideline,1,2020,0
+345, Normal breast tissue DNA methylation differences at regulatory elements are associated with the cancer risk factor age,27,2017,0
+346,Machine learning with applications in breast cancer diagnosis and prognosis,50,2018,1
+347,Study on Breast Tumor Detection Based on Lasso-BP Neural Network,0,2020,0
+348," Size-Optimized Ultrasmall Porous Silica Nanoparticles Depict Vasculature-Based Differential Targeting in Triple Negative Breast Cancer Shreya Goel, Carolina …",0,0,0
+349, Expression of AdipoR1 and AdipoR2 receptors as leptin-breast cancer regulation mechanisms,8,2017,1
+350, Primary Tumor Removal Improves the prognosis In Patients with Stage IV Breast Cancer: A Population-Based Study (Cohort Study),0,2020,0
+351, Overexpression of mir-183 and mir-494 promotes proliferation and migration in human breast cancer cell lines,30,2017,0
+352,A novel integrated diagnosis method for breast cancer detection,2,2020,0
+353, Expression of tumor suppressors miR-195 and let-7a as potential biomarkers of invasive breast cancer,10,2018,1
+354,PRINCESS: Prediction of Individual Breast Cancer Evolution to Surgical Size,0,2020,0
+355,An immune‐related prognostic signature for predicting breast cancer recurrence,1,2020,0
+356,A mathematical model of nutrient influence on fungal competition,6,2018,1
+357,Wavelet‐based scaling indices for breast cancer diagnostics,6,2017,2
+358,Automatic nonlinear filtering and segmentation for breast ultrasound images,11,2016,0
+359, A Personalized Physical Activity Coaching App for Breast Cancer Survivors: Design Process and Early Prototype Testing,0,2020,1
+360,[CITATION][C] A mathematical model for predicting immune response in a trastuzumab treated HER2+ breast cancer animal model: Preliminary efforts,0,2018,0
+361, The in vitro radiosensitizer potential of resveratrol on MCF-7 breast cancer cells,15,2018,0
+362,[CITATION][C] … model of pathologic response based on tumor cellularity and tumor-infiltrating lymphocytes (CelTIL) in HER2-positive breast cancer treated with chemo …,23,2018,0
+363,Machine learning assisted prognostication model based on genomic expression in the tumor microenvironment of stage II and III breast cancer,0,2020,0
+364, Development of digital breast tomosynthesis and diffuse optical tomography fusion imaging for breast cancer detection,0,2020,0
+365, Comparative evaluation of network features for the prediction of breast cancer metastasis,2,2020,0
+366, A physical mechanism and global quantification of breast cancer,14,2016,4
+367,The immune checkpoint kick start: Optimization of neoadjuvant combination therapy using game theory,13,2019,8
+368,Molecular natural history of breast cancer: Leveraging transcriptomics to predict breast cancer progression and aggressiveness,0,2020,3
+369,Breast cancer prediction model based on logical programming algorithm,0,2020,0
+370,Antitumor effects of lidocaine on human breast cancer cells: An in vitro and in vivo experimental trial,25,2018,3
+371,Assessing the impact of the addition of dendritic cell vaccination to neoadjuvant chemotherapy in breast cancer patients: A model‐based characterization approach,3,2019,1
+372,Axillary Nodal Examination in Breast Cancer: How Much Is Enough? Evidence for a New Minimum,1,2016,0
+373,Classification of Breast Cancer Malignancy Using Machine Learning Mechanisms in TensorFlow and Keras,0,2019,0
+374, The Menstrual Cycle and Risk of Breast Cancer: A Review,2,2020,1
+375,CAD and AI for breast cancer—recent development and challenges,6,2019,5
+376,Thermal Imaging-An Emerging Modality for Breast Cancer Detection: A Comprehensive Review,0,2020,0
+377,Weight and weight changes in early adulthood and later breast cancer risk,57,2017,2
+378, Diffusion-Weighted Magnetic Resonance Imaging of Patients with Breast Cancer Following Neoadjuvant Chemotherapy Provides Early Prediction of …,6,2019,0
+379,Current status of mathematical modeling of cancer–From the viewpoint of cancer hallmarks,2017,2017,1
+380,Competing endogenous RNA (ceRNA) cross talk and language in ceRNA regulatory networks: a new look at hallmarks of breast cancer,76,2019,1
+381, Integrative analysis of mutational and transcriptional profiles reveals driver mutations of metastatic breast cancers,36,2016,0
+382, Implementation of an ontological reasoning to support the guideline-based management of primary breast cancer patients in the DESIREE project,0,2020,0
+383, Dynamic targeting in cancer treatment,7,2019,3
+384, Pattern recognition approaches for breast cancer DCE-MRI classification: a systematic review,47,2016,1
+385,A mathematical multi-organ model for bidirectional epithelial–mesenchymal transitions in the metastatic spread of cancer,4,2020,5
+386,Irreversible electroporation inhibits pro-cancer inflammatory signaling in triple negative breast cancer cells,15,2017,0
+387, On a stochastic neuronal model integrating correlated inputs,9,2019,0
+388, HER2-HER3 dimer quantification by FLIM-FRET predicts breast cancer metastatic relapse,0,7,2
+389, Pharmacokinetic-pharmacodynamic modeling of the antitumor effect of TM208 and EGFR-TKI resistance in human breast cancer xenograft mice,5,2016,0
+390, … disease after neoadjuvant therapy and in carcinoma in situ: a report of the International Immuno-Oncology Biomarker Working Group on Breast Cancer,105,2018,0
+391,Particle swarm optimization feature selection for breast cancer recurrence prediction,38,2018,0
+392,A theoretical model describing the dynamics of venous flow in the DIEP flap,1,2019,0
+393,Cox Proportional Hazard Survival Analysis to Inpatient Breast Cancer Cases,0,2018,0
+394,Detection and classification of breast cancer from digital mammograms using hybrid extreme learning machine classifier,0,2020,0
+395,"Curcumin nanocochleates: Use of design of experiments, solid state characterization, in vitro apoptosis and cytotoxicity against breast cancer MCF-7 cells",11,2018,0
+396,Natural language processing approaches to detect the timeline of metastatic recurrence of breast cancer,7,2019,2
+397,Acid-sensitive lipidated doxorubicin prodrug entrapped in nanoemulsion impairs lung tumor metastasis in a breast cancer model,13,2017,0
+398, Modeling breast cancer progression to bone: how driver mutation order and metabolism matter,3,2019,0
+399,A data mining model to predict breast cancer using improved feature selection method on real time data,2018,2018,0
+400,Regularized multi-view subspace clustering for common modules across cancer stages,7,2018,1
+401, A DNA Methylation-Based Panel for the Prognosis and Dagnosis of Patients With Breast Cancer and Its Mechanisms,0,2020,2
+402, Heritable DNA methylation marks associated with susceptibility to breast cancer,36,2018,6
+403,Gene signature‐based prediction of triple‐negative breast cancer patient response to Neoadjuvant chemotherapy,0,2020,0
+404,Epithelial/mesenchymal plasticity: how have quantitative mathematical models helped improve our understanding?,38,2017,0
+405,Pharmacokinetics and pharmacodynamics-based mathematical modeling identifies an optimal protocol for metronomic chemotherapy,21,2017,0
+406, Radiogenomic signatures reveal multiscale intratumour heterogeneity associated with biological functions and survival in breast cancer,0,2020,0
+407,Metronomics in the neoadjuvant and adjuvant treatment of breast cancer,9,2017,2
+408, Machine Learning to Guide the use of Adjuvant Therapies for Breast Cancer,0,2020,0
+409, Analyzing Relationship Between Local and Metastasis Relapses with Survival of Patients with Breast Cancer: A Study Using Joint Frailty Model,5,2018,0
+410, Evaluation of clinical parameters influencing the development of bone metastasis in breast cancer,30,2016,0
+411, Reproductive and hormonal risk factors of breast cancer: a historical perspective,18,2017,0
+412,Impact of the delayed initiation of adjuvant chemotherapy in the outcome of triple-negative breast cancer,2020,2020,1
+413,Orai3 calcium channel and resistance to chemotherapy in breast cancer cells: the p53 connection,40,2018,2
+414,Design and construction of applicator antennas for the breast cancer treatment,2018,2018,0
+415,Multicenter study using desorption-electrospray-ionization-mass-spectrometry imaging for breast-cancer diagnosis,28,2018,2
+416,In vitro release kinetics model fitting of liposomes: An insight,63,2016,0
+417,Breast cancer diagnosis using feature ensemble learning based on stacked sparse autoencoders and softmax regression,28,2019,0
+418," … , multicenter French study evaluating the clinical impact of the Breast Cancer Intrinsic Subtype-Prosigna® Test in the management of early-stage breast …",9,2017,0
+419,Breast cancer stem cell: the roles and therapeutic implications,54,2017,0
+420,The influence of the electrode dimension on the detection sensitivity of electric cell–substrate impedance sensing (ECIS) and its mathematical modeling,21,2017,0
+421,Loss of ZIP facilitates JAK2-STAT3 activation in tamoxifen-resistant breast cancer,0,2020,2
+422, Integration of transcriptomic data in a genome-scale metabolic model to investigate the link between obesity and breast cancer,7,2019,1
+423,Can a machine-learning model improve the prediction of nodal stage after a positive sentinel lymph node biopsy in breast cancer?,0,2020,0
+424,Joint models of tumour size and lymph node spread for incident breast cancer cases in the presence of screening,2,2019,0
+425,Rationally designed 2-in-1 nanoparticles can overcome adaptive resistance in cancer,42,2016,6
+426,Mutation Mechanisms of Breast Cancer among the Female Population in China,0,2020,0
+427,Understanding intratumor heterogeneity by combining genome analysis and mathematical modeling,14,2018,1
+428,Deep learning and optimization algorithms for automatic breast cancer detection,2020,2020,0
+429,The genomic landscape of metastatic breast cancer highlights changes in mutation and signature frequencies,40,2019,6
+430,Doxorubicin loaded liposomal nanoparticles containing quantum dot for treatment of breast cancer,1,2019,0
+431,"HDAC6 Plays a Noncanonical Role in the Regulation of Antitumor Immune Responses, Dissemination, and Invasiveness of Breast Cancer",0,2020,2
+432,MiR-195 regulates mitochondrial function by targeting mitofusin-2 in breast cancer cells,7,2019,5
+433,A comparative study of breast cancer tumor classification by classical machine learning methods and deep learning method,0,2020,0
+434,Next-Generation Sequencing Identifies BRCA1 and/or BRCA2 Mutations in Women at High Hereditary Risk for Breast Cancer with Shorter Telomere Length,1,2020,0
+435,A neural network based breast cancer prognosis model with PCA processed features,2016,2016,0
+436,Identifying predictive factors for neuropathic pain after breast cancer surgery using machine learning,0,2020,0
+437, Finite Element Method Approach for Thermal Analysis of Female Breast Tissue Tumor Model,0,2017,1
+438,Magnetic resonance imaging features for predicting axillary lymph node metastasis in patients with breast cancer,0,2020,0
+439,Optimal control of a delayed breast cancer stem cells nonlinear model,5,2016,0
+440, Spectrochemical analysis of liquid biopsy harnessed to multivariate analysis towards breast cancer screening,0,2020,0
+441,Human Breast Cancer Xenograft Model Implicates Peroxisome Proliferator–activated Receptor Signaling as Driver of Cancer-induced Muscle Fatigue,4,2019,4
+442,A Comparative Study of Meta Heuristic Model to Assess the Type of Breast Cancer Disease,0,2020,0
+443,Precision medicine and radiogenomics in breast cancer: new approaches toward diagnosis and treatment,67,2018,1
+444,Doxazosin nanoencapsulation improves its in vitro antiproliferative and anticlonogenic effects on breast cancer cells,4,2017,0
+445,ST6GALNAC5 expression decreases the interactions between breast cancer cells and the human blood-brain barrier,24,2016,1
+446,Unsupervised clustering of quantitative image phenotypes reveals breast cancer subtypes with distinct prognoses and molecular pathways,38,2017,0
+447, Applied mathematics and nonlinear sciences in the war on cancer,20,2016,1
+448,Applying data mining techniques to improve breast cancer diagnosis,35,2016,1
+449,Surgical Management of the Axilla in Elderly Women With Node-positive Breast Cancer,0,2020,1
+450,Economic evaluation of letrozole for early breast cancer in a health resource-limited setting,3,2018,0
+451,Individualised selection of left‐sided breast cancer patients for proton therapy based on cost‐effectiveness,0,2020,2
+452,AgNPs loaded microemulsion using gallic acid inhibits MCF-7 breast cancer cell line and solid ehrlich carcinoma,2,2019,0
+453,Potentialities of Inverse Scattering Techniques for Breast Cancer Imaging at Millimeter-Waves Frequencies,0,2020,0
+454,Dose variability in different lymph node levels during locoregional breast cancer irradiation: the impact of deep-inspiration breath hold,8,2019,0
+455,Breast Cancer Segmentation From Thermal Images Based on Chaotic Salp Swarm Algorithm,4,2020,0
+456,Development of a three-dimensional surrogate geometry of the breast and its use in estimating the thermal conductivities of breast tissue and breast lesions based on …,2,2019,0
+457,… imputation and synthetic data simulation through modeling graphical probabilistic dependencies between variables (ModGraProDep): An application to breast cancer …,0,2020,3
+458,Multiple mediation analysis with survival outcomes: with an application to explore racial disparity in breast cancer survival,6,2019,3
+459,Application of arteether-loaded polyurethane nanomicelles to induce immune response in breast cancer model,14,2017,0
+460,The optimal radiation dose to induce robust systemic anti-tumor immunity,17,2018,3
+461, A network modeling approach to elucidate drug resistance mechanisms and predict combinatorial drug treatments in breast cancer,19,2017,2
+462,FAK is required for tumor metastasis-related fluid microenvironment in triple-negative breast cancer,12,2019,1
+463, BCL-2 expression aids in the immunohistochemical prediction of the Oncotype DX breast cancer recurrence score,2,2018,2
+464,"… success, technique efficacy and complications of minimally-invasive imaging-guided percutaneous ablation procedures of breast cancer: A systematic review and …",47,2017,0
+465,Mathematical modelling of plasticity and phenotype switching in cancer cell populations,11,2017,0
+466, Validation of Residual Cancer Burden as Prognostic Factor for Breast Cancer Patients After Neoadjuvant Therapy,2,2019,1
+467,Anti-tumor efficacy of an integrated methyl dihydrojasmonate transdermal microemulsion system targeting breast cancer cells: in vitro and in vivo studies,27,2017,0
+468,Cancer cell plasticity: rapid reversal of chemosensitivity and expression of stemness markers in lung and breast cancer tumorspheres,11,2017,0
+469,Multi-label transfer learning for the early diagnosis of breast cancer,9,2020,0
+470,Mathematical modeling of tumor–tumor distant interactions supports a systemic control of tumor growth,25,2017,8
+471, Effectiveness of breast cancer screening policies in countries with medium-low incidence rates,2,2018,0
+472, Investigation of novel regulation of n-myristoyltransferase by mammalian target of rapamycin in breast cancer cells,5,2018,0
+473,Maximized inter-class weighted mean for fast and accurate mitosis cells detection in breast cancer histopathology images,5,2017,0
+474, Long non-coding RNAs as prognostic markers in human breast cancer,92,2016,1
+475,Longitudinal liquid biopsy and mathematical modeling of clonal evolution forecast time to treatment failure in the PROSPECT-C phase II colorectal cancer clinical trial,87,2018,9
+476, Detection and classification the breast tumors using mask R-CNN on sonograms,18,2019,2
+477, Mapping of female breast cancer incidence and mortality rates to socioeconomic factors: From univariate analysis to path diagram analysis,0,2020,0
+478,Personalized early detection and prevention of breast cancer: ENVISION consensus statement,2020,2020,3
+479,Breast cancer candidate gene detection through integration of subcellular localization data with protein-protein interaction networks,1,2020,0
+480,"Targeted dose enhancement in radiotherapy for breast cancer using gold nanoparticles, part 2: a treatment planning study",10,2017,0
+481,"SU‐G‐BRC‐13: Model Based Classification for Optimal Position Selection for Left‐Sided Breast Radiotherapy: Free Breathing, DIBH, Or Prone",1,2016,0
+482, Mathematical modeling of therapy-induced cancer drug resistance: connecting cancer mechanisms to population survival rates,63,2016,0
+483,AI‐Enhanced Diagnosis of Challenging Lesions in Breast MRI: A Methodology and Application Primer,0,2020,0
+484,Current mathematical models for cancer drug discovery,12,2017,2
+485,Classification of Breast Cancer Malignancy Using Machine Learning Mechanisms in TensorFlow and Keras,0,2019,0
+486,Network modularity and hierarchical structure in breast cancer molecular subtypes,8,2018,0
+487, Validating a breast cancer score in Spanish women. The MCC-Spain study,5,2018,3
+488,Towards breast cancer rotational radiotherapy with synchrotron radiation,1,2016,0
+489,"NCCN guidelines insights: breast cancer, version 1.2017",256,2017,2
+490,Using â€˜ Costs Statesâ€™ in a Semi-Markov Model to Estimate Cost-Effectiveness with an Illustration for Metastatic HER2+ Breast Cancer in the Czech Republic,0,2020,0
